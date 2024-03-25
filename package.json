@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jaylonmcshan19/tgsi-automation/issues"
   },
-  "homepage": "https://github.com/jaylonmcshan19/tgsi-automation#readme"
+  "homepage": "https://github.com/jaylonmcshan19/tgsi-automation#readme",
+  "devDependencies": {
+    "next": "^14.1.4"
+  }
 }
